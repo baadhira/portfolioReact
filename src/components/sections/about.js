@@ -144,7 +144,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Badira and I enjoy creating things that live on the internet. I strive t deliver seamless and engaging user experiences.
+              Hello! My name is Badira and I enjoy creating things that live on the internet. I strive to deliver seamless and engaging user experiences.
               Iam countinuously learning and adapting to new technologies to stay ahead in the ever-evolving world of web development.
             </p>
 
