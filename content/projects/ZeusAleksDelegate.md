@@ -4,8 +4,8 @@ title: 'Jobbe - Job Portal'
 github: 'https://github.com/baadhira/Jobbee-Job-Portal'
 external: 'https://www.linkedin.com/posts/baadhira_hello-connections-im-happy-to-share-that-activity-6953361999988756481-MVL1?utm_source=share&utm_medium=member_android'
 tech:
-  - Next Js
-  - Javaacript
+  - NextJs
+  - Javascript
   - HTML
   - CSS
 company: 'Self Learning'

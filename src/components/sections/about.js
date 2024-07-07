@@ -151,7 +151,7 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="">Service based company</a>&nbsp;powered by{' '}
-              <a href="https://arabbank.com/">a popular Bank in middle east</a>,{' '}
+              <a href="https://arabbank.com/">a popular Bank in middle east</a>{' '}
             </p>
             {/* <p>
               I also recently{' '}
