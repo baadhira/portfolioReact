@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Badira P P',
     description:
-      'Badira P P is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: '', // No trailing slash allowed!
+      'Badira P P is a frontend developer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://github.com/baadhira', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Badira P P',
   },
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/favicons/favicon.svg',
       },
     },
     `gatsby-plugin-offline`,
